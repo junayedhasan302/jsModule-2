@@ -1,0 +1,1 @@
+console.log("Hello, Module 2 of js is started");
